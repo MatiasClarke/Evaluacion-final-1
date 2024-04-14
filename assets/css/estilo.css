@@ -1,0 +1,31 @@
+nav {
+    background-color: #0dcaf0;
+}
+.navbar-brand{
+    color: #ffffff;
+}
+.offcanvas-body{
+    color: #ffffff;
+}
+body{
+    font-family: 'raleway', sans-serif;
+}
+.titulo{
+    font-family: 'raleway', cursive;
+}
+.tarjeta{
+    width: 16rem;
+}
+.contenedor-formulario{
+    height:30rem;
+}
+.ancho-formulario{
+    max-width:40rem;
+}
+/* Footer */
+footer{
+    text-align: center;
+    padding: 0px 0;
+    background-color: #0dcaf0;
+
+}
